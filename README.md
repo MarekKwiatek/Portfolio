@@ -13,5 +13,5 @@ Hi, my name is Marek, I have recently completed a tester course and I am looking
   
   <h2>Courses</h2>
   <ul>
-    <li>Coders Lab - Tester Manualny</li>
+  <li><a href="https://coderslab.pl/pl" target="_blank">Coders Lab</a> - Tester Manualny</li>
   </ul>
