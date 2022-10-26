@@ -9,6 +9,7 @@ Hi, my name is Marek, I have recently completed a tester course and I am looking
   <li>Jira</li>
   <li>MySQL</li>
   <li>TestLink</li>
+  <li>Slack - for comunication</li>
 </ul>
   
   <h2>Courses</h2>
