@@ -19,4 +19,7 @@ Hi, my name is Marek, I have recently completed a tester course and I am looking
 
 <h2>Blogs I read</h2>
 <ul>
-  <li><a href+"https://testerzy.pl/" target="_blank">testerzy.pl</a></li>
+  <li><a href="https://testerzy.pl/" target="_blank">testerzy.pl</a></li>
+</ul>
+
+<h2>My projects</h2>
